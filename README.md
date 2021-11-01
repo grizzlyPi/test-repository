@@ -1,2 +1,2 @@
 # test-repository
-this folfer is a test
+this folder is a test
